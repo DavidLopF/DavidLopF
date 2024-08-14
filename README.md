@@ -9,7 +9,9 @@
 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/css.png' width='33'/> 
 <img src ='https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/mysql.png' height='40'/> 
 <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/firebase.jpg' width='40'/>
+<img src = 'https://i.blogs.es/e7b69c/java_logo/1366_2000.webp' width='40'/>
 <img src = 'https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg' width='40'/>
+<img src = 'https://www.martechforum.com/wp-content/uploads/2015/08/AWS-logo.jpg' width='40'/>
  <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/node.png' width='30'/> 
  <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/angular.jpg' width='30'/>
  
