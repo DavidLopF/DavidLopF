@@ -9,6 +9,6 @@
 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/css.png' width='33'/> <img src ='https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/mysql.png' height='40'/> <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/es6.jpg' width='30'/> <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/firebase.jpg' width='40'/>
  <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/node.png' width='30'/> <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/angular.jpg' width='30'/>
  
-[![DavidLopF github stats](https://github-readme-stats.vercel.app/api?username=DavidLopF&count_private=true&show_icons=true)](https://github.com/DavidLopF)
+[![DavidLopF github stats](https://github-readme-stats.vercel.app/api?username=DavidLopF&count_private=true&show_icons=true&hide_rank=true)](https://github.com/DavidLopF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLopF&hide=TeX&layout=compact)
