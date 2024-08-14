@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-DavidLopF-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davidlopezforero/)
 [![Instagram Badge](https://img.shields.io/badge/-@davidlopezrf-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/davidlopezrf/?hl=es)
 
-## Programming Languages
+## Stack
 <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/javascript.jpg' width='40'/> <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/typescritp.jpg' height='40'/>  <img src ='https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/git.png' width='40'/><img src =
 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/html.png' width='40'/> <img src =
 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/css.png' width='40'/> 
