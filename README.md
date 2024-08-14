@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@davidlopezrf-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/davidlopezrf/?hl=es)
 
 ## Programming Languages
-<img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/javascript.jpg' width='30'/> <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/typescritp.jpg' height='40'/>  <img src ='https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/git.png' width='40'/><img src =
+<img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/javascript.jpg' width='40'/> <img src = 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/typescritp.jpg' height='40'/>  <img src ='https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/git.png' width='40'/><img src =
 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/html.png' width='40'/> <img src =
 'https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/css.png' width='40'/> 
 <img src ='https://github.com/santiagoPadi/santiagoPadi/blob/master/Images/mysql.png' height='40'/> 
