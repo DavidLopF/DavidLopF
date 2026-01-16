@@ -46,18 +46,6 @@ Algunas de las tecnologías con las que trabajo con mayor frecuencia:
 
 ---
 
-### 📊 Estadísticas en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidLopF&count_private=true&show_icons=true&theme=transparent&border_color=30A3DC" alt="Estadísticas de DavidLopF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidLopF&layout=compact&theme=transparent&border_color=30A3DC" alt="Lenguajes más usados por DavidLopF" />
-</p>
-
----
-
 ### 📫 ¿Hablamos?
 
 <p align="center">
