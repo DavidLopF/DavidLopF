@@ -2,11 +2,18 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # Se regenera cada 12 horas
-  workflow_dispatch:           # Permite correrlo manualmente desde Actions
+    # Cada 6 horas. El cron de GitHub es best-effort: puede retrasarse
+    # bajo carga, por eso no conviene dejarlo en 24h.
+    - cron: "0 */6 * * *"
+  workflow_dispatch:        # Permite correrlo manualmente desde la pestaña Actions
   push:
     branches:
-      - main
+      - master              # FIX: la rama por defecto es master, no main
+
+# Evita que dos ejecuciones (cron + push) escriban a la vez en la rama output
+concurrency:
+  group: snake-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -16,10 +23,14 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # FIX: sin un PAT propio, la acción usa el token efímero de Actions,
+          # que SOLO ve contribuciones públicas. Con SNAKE_TOKEN (PAT classic
+          # con scope read:user) el calendario incluye las privadas.
+          github_token: ${{ secrets.SNAKE_TOKEN || github.token }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
